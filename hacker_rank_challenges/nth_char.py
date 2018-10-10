@@ -1,3 +1,4 @@
+''' This program identified every nth character in a given string'''
 import sys
 
 
